@@ -1,7 +1,7 @@
 # Contributorship Collaboration
 The goal of the __Contributorship Collaboration__ project to make curating and reporting scholarly contributions easier and more transparent
 
-See our [list of projects](https://contributorshipcollaboration.github.io/projects/translation/)
+See our [list of projects](https://contributorshipcollaboration.github.io/projects/translation/) and our [blog](https://contributorshipcollaboration.github.io/blog/)
 
 One of our projects is the [tenzing](https://tenzing.club) Shiny app and assiciated R package that we developed to facilitate researcher reporting of contributorship information in manuscripts and journal articles.
 
